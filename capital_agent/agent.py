@@ -8,7 +8,7 @@ from google.genai import types
 from pydantic import BaseModel, Field
 
 # --- 1. Define Constants ---
-APP_NAME = "agent_comparison_app"
+APP_NAME = "agent_comparison__app"
 USER_ID = "test_user_456"
 SESSION_ID_TOOL_AGENT = "session_tool_agent_xyz"
 SESSION_ID_SCHEMA_AGENT = "session_schema_agent_xyz"
